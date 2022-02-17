@@ -11,7 +11,7 @@ public class checkPrime2 {
 					prime = false;
 				}
 			}
-			if(prime) {
+			if(!prime) {
 				System.out.println(i);
 			}
 		}
