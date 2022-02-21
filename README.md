@@ -8,3 +8,4 @@
 | Problem name and link of source | Solution |
 |-------------------------------------------------------------|--------------------|
 | [Quality Adjusted Life Year](https://open.kattis.com/problems/qaly) | [solution](https://github.com/subratsir/Java-Programs/blob/main/quality-adjusted-life-year.java) |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [solution](https://github.com/subratsir/Java-Programs/blob/main/electricaloutlets.java) |
