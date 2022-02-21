@@ -9,3 +9,5 @@
 |-------------------------------------------------------------|--------------------|
 | [Quality Adjusted Life Year](https://open.kattis.com/problems/qaly) | [solution](https://github.com/subratsir/Java-Programs/blob/main/quality-adjusted-life-year.java) |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [solution](https://github.com/subratsir/Java-Programs/blob/main/electricaloutlets.java) |
+| [Digit Swap](https://open.kattis.com/problems/digitswap
+) | [Solution](https://github.com/subratsir/Java-Programs/blob/main/digitalswap.java) |
