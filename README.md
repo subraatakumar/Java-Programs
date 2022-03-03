@@ -17,3 +17,4 @@
 | Problem name and link of source | Solution |
 |-------------------------------------------------------------|--------------------|
 | [doubleChar](https://codingbat.com/prob/p165312) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/doubleChar.java) |
+| [countHi](https://codingbat.com/prob/p147448) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/countHi.java) |
