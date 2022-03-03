@@ -12,3 +12,8 @@
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Solution](https://github.com/subratsir/Java-Programs/blob/main/digitalswap.java) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Solution](https://github.com/subratsir/Java-Programs/blob/main/quadrantSelection.java)
 
+## Programs from codingbat.com
+
+| Problem name and link of source | Solution |
+|-------------------------------------------------------------|--------------------|
+| [doubleChar](https://codingbat.com/prob/p165312) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/doubleChar.java) |
