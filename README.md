@@ -18,4 +18,6 @@
 |-------------------------------------------------------------|--------------------|
 | [doubleChar](https://codingbat.com/prob/p165312) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/doubleChar.java) |
 | [countHi](https://codingbat.com/prob/p147448) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/countHi.java) |
-| [catDog](https://codingbat.com/prob/p111624) | [solution](#) |
+| [catDog](https://codingbat.com/prob/p111624) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/catDog.java) |
+| [countCode](https://codingbat.com/prob/p123614) | [solution](#) |
+
