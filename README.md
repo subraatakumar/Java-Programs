@@ -24,4 +24,4 @@
 | [withoutEnd2](https://codingbat.com/prob/p174254) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/withoutEnd2.java) |
 | [middleTwo](https://codingbat.com/prob/p137729) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/middleTwo.java) |
 | [startWord](https://codingbat.com/prob/p141494) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/startWord.java) |
-| [lastTwp](https://codingbat.com/prob/p194786) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/lastTwo.java) |
+| [lastTwo](https://codingbat.com/prob/p194786) | [solution](https://github.com/subratsir/Java-Programs/blob/main/codingbat/lastTwo.java) |
